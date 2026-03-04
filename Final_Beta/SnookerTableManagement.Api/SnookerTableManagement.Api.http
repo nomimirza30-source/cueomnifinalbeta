@@ -1,0 +1,6 @@
+@SnookerTableManagement.Api_HostAddress = http://localhost:5277
+
+GET {{SnookerTableManagement.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
